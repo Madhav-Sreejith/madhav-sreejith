@@ -1,13 +1,14 @@
-<!-- Anime Meme GitHub Profile README -->
+<!-- Animated Anime GitHub Profile README -->
 
-<!-- Header with GIF aligned to the right -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1>🌸 Hey! I'm YOUR NAME</h1>
-    <p>Anime fan ✨ | Meme connoisseur 😂 | Fullstack Dev 💻 | AI & ML Explorer 🤖</p>
-  </div>
-  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="200" alt="Kurukuru Herta">
-</div>
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner">
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Hey!+I'm+YOUR+NAME+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Anime+Fan+%E2%9C%A8;ML+%26+AI+Explorer+%F0%9F%A4%96">
+</p>
 
 ---
 
@@ -15,13 +16,28 @@
 - 🎯 19-year-old coder from India  
 - 💻 Currently learning **DSA** & **Machine Learning**  
 - 🎮 Gamer, otaku, and light novel addict  
-- 🏸 Badminton enjoyer & night owl
+- 🏸 Badminton enjoyer & night owl  
 
 ---
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-sreejithE&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+<p align="center">
+  <img src="https://github.com/madhav-sreejith/madhav-sreejith/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
 
 ---
