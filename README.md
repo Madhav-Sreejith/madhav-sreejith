@@ -34,7 +34,7 @@
 </br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,bash,git,gcp,vscode,windows,edge,playstation" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,bash,git,vscode,windows,github,discord,html,css,reactjs,linux" />
 </p>
 
 </br>
@@ -45,6 +45,8 @@
 
 <p>
 If you want to reach out to me about anything—be it some doubt, just to hang out, or even to game together—ping me 😉.
+</p>
+<br>
 
 <a href="mailto:madhavsreejith123gmail.com">
  <img align="left" alt="Gmail" width="130" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"" />
