@@ -1,13 +1,13 @@
-<!-- Animated Anime GitHub Profile README -->
+<!-- 🎀 Animated Anime GitHub Profile README 🎀 -->
 
-<!-- Banner GIF -->
+<!-- Floating Banner GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner">
+  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner" style="transform: translateY(0px); animation: float 3s ease-in-out infinite;">
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Hey!+I'm+YOUR+NAME+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Anime+Fan+%E2%9C%A8;ML+%26+AI+Explorer+%F0%9F%A4%96">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Hey!+I'm+Madhav+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Anime+Fan+%E2%9C%A8;ML+%26+AI+Explorer+%F0%9F%A4%96">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhav-sreejithE&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-sreejithE&theme=tokyonight" height="160px"/>
 </p>
 
 ---
