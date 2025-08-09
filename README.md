@@ -1,14 +1,13 @@
 <!-- Anime Meme GitHub Profile README -->
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner">
-</p>
-
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&center=true&vCenter=true&width=800&lines=Hey!+I'm+YOUR+NAME+%F0%9F%91%8B;Anime+fan+%E2%9C%A8;Meme+connoisseur+%F0%9F%98%82;Fullstack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96">
-</p>
+<!-- Header with GIF aligned to the right -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>🌸 Hey! I'm YOUR NAME</h1>
+    <p>Anime fan ✨ | Meme connoisseur 😂 | Fullstack Dev 💻 | AI & ML Explorer 🤖</p>
+  </div>
+  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="200" alt="Kurukuru Herta">
+</div>
 
 ---
 
