@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://tenor.com/view/kurukuru-herta-seseren-gif-17825430053473824164" width="100%" alt="Anime Banner">
+  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="100%" alt="Anime Banner">
 </p>
 
 <!-- Typing Intro -->
