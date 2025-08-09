@@ -1,8 +1,8 @@
-<!-- 🎀 Animated Anime GitHub Profile README 🎀 -->
+<!-- Animated Anime GitHub Profile README -->
 
-<!-- Floating Banner GIF -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner" style="transform: translateY(0px); animation: float 3s ease-in-out infinite;">
+  <img src="https://media.tenor.com/92CmMMHhLaQAAAAi/kurukuru-herta.gif" width="50%" alt="Anime Banner">
 </p>
 
 <!-- Typing Intro -->
@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav-sreejithE&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-sreejithE&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-sreejith&theme=tokyonight" height="160px"/>
 </p>
 
 ---
