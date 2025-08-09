@@ -34,7 +34,7 @@
 </br>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,bash,git,vscode,windows,github,discord,html,css,reactjs,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,vscode,windows,github,discord,html,vite,mongodb,mysql,react,css,linux" />
 </p>
 
 </br>
