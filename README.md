@@ -1,66 +1,77 @@
-# Heyyyyy 👋
-
+<!-- Aesthetic Banner GIF -->
 <div align="center">
-<img height="250" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/31044VVA7iMAAAAC/mewing-cat.gif">
+  <img src="https://media1.tenor.com/m/5b1Xf8w39pAAAAAC/aesthetic-anime.gif" width="700" alt="Aesthetic Banner"/>
 </div>
 
-</br>
-</br>
-</br>
-
-# About ME 💬 :
-
-### - I'm a B.Tech Student .
-
-<img height="400" width="350" alt="GIF" align="right" src="https://media.tenor.com/bPaJaHgfKC8AAAAi/rock-one-eyebrow-raised-rock-staring.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Machine Learning
-- ✨ Embeded Systems
-
-
-### - Hobbies : 
-- ✨ Gaming 
-- ✨ Reading Books
-- ✨ Teach
-- ✨ Music
-
-</br>
-</br>
-</br>
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
+<h1 align="center">✨ Hey, I'm Madhav ✨</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,vscode,windows,github,discord,html,vite,mongodb,mysql,react,css,linux" />
+B.Tech student | Tech Enthusiast | Learner  
+<br>
+I love exploring technology, building projects, and continuously improving myself.
 </p>
 
-</br>
-</br>
-</br>
+---
 
-# Contact Me :
+## 🌿 About Me
+
+<img align="right" src="https://media1.tenor.com/m/cK0WoKxHqLAAAAAC/cat-aesthetic.gif" width="300" alt="Aesthetic Cat">
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Machine Learning  
+- Embedded Systems  
+
+### ☕ A Bit About Me
+- Calm learner who enjoys understanding how things work  
+- Someone who prefers clean & meaningful code  
+- Loves peaceful music while studying  
+
+### 🌸 Hobbies  
+- Gaming  
+- Reading Books  
+- Teaching & Helping  
+- Music & Chill Playlists  
+
+<br clear="right"/>
+
+---
+
+## 🎨 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,git,github,linux,windows,vscode,html,css,react,vite,mysql,mongodb" />
+</p>
+
+---
+
+## 💌 Connect With Me
+
+Interested in collaborating, learning together, or just talking about tech?  
+Feel free to reach out anytime 💫
 
 <p>
-If you want to reach out to me about anything—be it some doubt, just to hang out, or even to game together—ping me 😉.
-</p>
-<br>
+  <a href="mailto:madhavsreejith123@gmail.com">
+    <img align="left" alt="Email" width="140" height="70" src="https://img.shields.io/badge/Email-Me-f4c2c2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:madhavsreejith123gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"" />
-</a>
-<a href="https://www.linkedin.com/in/madhav-sreejith">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
+  <a href="https://www.linkedin.com/in/madhav-sreejith">
+    <img align="left" alt="LinkedIn" width="150" height="70" src="https://img.shields.io/badge/LinkedIn-Madhav-a3c9a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-</br>
-</br>
-</br>
+<br><br><br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-mauve-beta.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=radical" height="160px"/>
-</p>
+---
+
+## 📊 GitHub Stats (Soft Theme)
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-mauve-beta.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <sub>🌸 “Keep learning, stay soft, and grow at your own pace.” 🌸</sub>
+</div>
