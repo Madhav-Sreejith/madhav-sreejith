@@ -64,7 +64,7 @@ Feel free to reach out anytime 💫
 
 ---
 
-## 📊 GitHub Stats (Soft Theme)
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-mauve-beta.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=tokyonight" />
