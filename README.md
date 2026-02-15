@@ -1,77 +1,77 @@
-<!-- Aesthetic Banner GIF -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/5b1Xf8w39pAAAAAC/aesthetic-anime.gif" width="700" alt="Aesthetic Banner"/>
-</div>
-
-<h1 align="center">✨ Hey, I'm Madhav ✨</h1>
-
+<!-- Animated Typing Banner (Works on GitHub) -->
 <p align="center">
-B.Tech student | Tech Enthusiast | Learner  
-<br>
-I love exploring technology, building projects, and continuously improving myself.
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Madhav+%F0%9F%91%8B;B.Tech+Student;Software+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🌿 About Me
+<h1 align="center">Madhav Sreejith</h1>
 
-<img align="right" src="https://media1.tenor.com/m/cK0WoKxHqLAAAAAC/cat-aesthetic.gif" width="300" alt="Aesthetic Cat">
+<p align="center">
+  B.Tech Student | Software Developer | Tech Enthusiast  
+  <br/>
+  Passionate about building impactful projects and continuously improving my technical skills.
+</p>
 
-### 🌱 Currently Learning
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech student focused on **Software Development & Problem Solving**
+- 💡 Strong believer in writing clean, maintainable code
+- 🚀 Building real-world projects to strengthen backend & frontend skills
+- 📚 Consistent learner exploring new technologies
+
+---
+
+## 🚀 Currently Learning
+
 - Data Structures & Algorithms  
 - Machine Learning  
 - Embedded Systems  
-
-### ☕ A Bit About Me
-- Calm learner who enjoys understanding how things work  
-- Someone who prefers clean & meaningful code  
-- Loves peaceful music while studying  
-
-### 🌸 Hobbies  
-- Gaming  
-- Reading Books  
-- Teaching & Helping  
-- Music & Chill Playlists  
-
-<br clear="right"/>
+- Backend Development  
 
 ---
 
-## 🎨 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,git,github,linux,windows,vscode,html,css,react,vite,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,mysql,tensorflow,git,github,linux,vscode,html,css" />
 </p>
 
 ---
 
-## 💌 Connect With Me
+## 📌 Featured Projects
 
-Interested in collaborating, learning together, or just talking about tech?  
-Feel free to reach out anytime 💫
-
-<p>
-  <a href="mailto:madhavsreejith123@gmail.com">
-    <img align="left" alt="Email" width="140" height="70" src="https://img.shields.io/badge/Email-Me-f4c2c2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/madhav-sreejith">
-    <img align="left" alt="LinkedIn" width="150" height="70" src="https://img.shields.io/badge/LinkedIn-Madhav-a3c9a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br><br><br>
+- 🛒 Full Stack Marketplace Application  
+- 📊 Machine Learning Based Prediction Models  
+- 📱 React Portfolio & Interactive UI Projects  
+- 🌾 AgriTech-based Backend Systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats-mauve-beta.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=tokyonight" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhav-sreejith&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-sreejith&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
-  <sub>🌸 “Keep learning, stay soft, and grow at your own pace.” 🌸</sub>
-</div>
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:madhavsreejith123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhav-sreejith">
+    <img src="https://img.shields.io/badge/LinkedIn-Madhav_Sreejith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep learning. Build consistently. Grow intentionally."</i>
+</p>
